@@ -1,16 +1,16 @@
 {
-"name": "Kun kun",
-"symbol": "kun",
-"description": "this is a kun token.",
-"seller_fee_basis_points": 500,
-"image": "https://national-emerald-wren.myfilebase.com/ipfs/QmYtGrxS8M9JoV2EGy9dPCHdw2aM1QKXDMV3dC1UQoaWxM",
-"properties": {
-    "files": [
-        {
-            "uri": "https://national-emerald-wren.myfilebase.com/ipfs/QmYtGrxS8M9JoV2EGy9dPCHdw2aM1QKXDMV3dC1UQoaWxM",
-            "type": "image/png"
-        }
-        ],
-        "category": "image"
+    "name": "Kun kun",
+    "symbol": "kun",
+    "description": "this is a kun token.",
+    "seller_fee_basis_points": 500,
+    "image": "https://national-emerald-wren.myfilebase.com/ipfs/QmYtGrxS8M9JoV2EGy9dPCHdw2aM1QKXDMV3dC1UQoaWxM",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://national-emerald-wren.myfilebase.com/ipfs/QmYtGrxS8M9JoV2EGy9dPCHdw2aM1QKXDMV3dC1UQoaWxM",
+                "type": "image/png"
+            }
+            ],
+            "category": "image"
     }
 }
