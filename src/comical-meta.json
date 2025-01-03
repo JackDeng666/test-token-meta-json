@@ -1,0 +1,17 @@
+{
+    "name": "Comical Token",
+    "symbol": "Comical",
+    "description": "this is a comical token.",
+    "seller_fee_basis_points": 0,
+    "image": "https://national-emerald-wren.myfilebase.com/ipfs/QmbAfoSy9Jb8CJYcPbXpSj9b8dLssa1NLu7z6L3ETtrghX",
+    "attributes": [],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://national-emerald-wren.myfilebase.com/ipfs/QmbAfoSy9Jb8CJYcPbXpSj9b8dLssa1NLu7z6L3ETtrghX",
+                "type": "image/webp"
+            }
+        ],
+        "category": "image"
+    }
+}
